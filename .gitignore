@@ -1,0 +1,13 @@
+# Extensions
+
+*.pyc
+*.pyo
+bin
+eggs
+lib
+lib64
+
+# Folders
+
+/__pycache__/
+
