@@ -17,3 +17,4 @@ A Django-powered Twitterbot engine based on super-simple Markov chains
 * Write some tests
 * Improve scraper models in order to get rid of some general awkwardness (i.e. FirstWord model)
 * Add views for data visualisation
+* Add tests!
